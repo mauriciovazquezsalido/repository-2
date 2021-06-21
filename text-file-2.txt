@@ -1,1 +1,3 @@
-This is a second text file
+This is a second text file.
+
+And this is another line of text of the same text file.
